@@ -1,4 +1,4 @@
-Employee Management System
+Employee Management System:
 Welcome to the Employee Management System repository! This Java program is designed to manage employee information through a Text-based User Interface (TUI). The system is built on the principles of Object-Oriented Programming (OOP) to ensure flexibility and maintainability. The program offers four main operations:
 
 Adding User
